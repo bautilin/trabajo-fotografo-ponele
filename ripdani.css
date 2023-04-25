@@ -1,0 +1,23 @@
+ripdani 
+
+@font-face  {font-family: "Fuente"; src: url();}
+
+body {background-color: rgb(255, 255, 255); 
+      background-image: url(1229443.jpg); 
+      }
+
+#container {margin: 0 auto; width: 28%; 
+            text-align: center; padding: 0,9%; 
+            border: 5px solid rgb(255, 255, 255); 
+            border-radius: 30px; 
+            background-color: rgb(255, 169, 209);}
+
+#siu {font-size: 279%; font-style: normal; 
+         text-transform: uppercase; 
+         border-bottom: 5px solid rgb(255, 255, 255); 
+         padding-bottom: 1px; display: inline-flex;}
+
+#contacto {font-size: 150%;
+             color: rgb(255, 255, 255);}
+
+a {text-decoration: none;}
